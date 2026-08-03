@@ -28,7 +28,7 @@ Because every smaller amount is solved exactly once and reused whenever it recur
 
 ## How to Run
 ```bash
-python3 problem2_coin_change.py
+python3 p2_coin_change/coin_change.py
 ```
 
 ## Usage
